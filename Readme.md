@@ -18,7 +18,7 @@ Obs: primeiro teste do arquivo usando um arquivo Readme.md
 Para executar a aplicação, navegue até o diretório da aplicação pelo pompt de comnando e execute o comando:
 
 ```
-python -m http.server
+ git commit -m
 ```
 
 Depois, basta abrir o endereço que o servidor gerou no browser e realizar os testes.;)
